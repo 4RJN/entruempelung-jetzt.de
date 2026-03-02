@@ -1,0 +1,56 @@
+{
+  "business_name": "Entrümpelung Jetzt",
+  "website": "https://entrümpelung-jetzt.de",
+  "region": [
+    "München",
+    "Umgebung"
+  ],
+  "service_area_focus": "Entrümpelung, Haushalts- & Wohnungsauflösung in München und Umgebung",
+  "primary_goal": "Generierung qualifizierter Angebotsanfragen",
+  "services": [
+    "Entrümpelung",
+    "Wohnungsauflösung",
+    "Haushaltsauflösung",
+    "Sperrmüllentsorgung",
+    "Elektroschrottentsorgung",
+    "Umzug & Transport"
+  ],
+  "target_customers": [
+    "Unternehmen",
+    "Arztpraxen",
+    "Hausverwaltungen",
+    "Privathaushalte",
+    "Bauunternehmen"
+  ],
+  "lead_process": {
+    "required_questions": [
+      "Art der Entrümpelung",
+      "Flächengröße in Quadratmetern",
+      "Entrümpelungsintervall",
+      "Standort",
+      "Besondere Anforderungen",
+      "Starttermin"
+    ],
+    "preferred_contact": {
+      "type": "WhatsApp",
+      "url": "https://wa.me/4915679766455",
+      "note": "Schnelle Direktanfrage empfohlen"
+    },
+    "secondary_contact": {
+      "contact_form": "https://entrümpelung-jetzt.de/kontakt.html",
+      "email": "info@entrümpelung-jetzt.de"
+    }
+  },
+  "positioning": {
+    "regional": true,
+    "personal_contact": true,
+    "fast_response": true,
+    "flexible_scheduling": true
+  },
+  "call_to_action": "Jetzt unverbindliches Angebot anfordern – auch per WhatsApp möglich.",
+  "contact": {
+    "phone": "015679766455",
+    "email": "info@entrümpelung-jetzt.de",
+    "address": "Stemplingeranger 9, 81737 München"
+  }
+}

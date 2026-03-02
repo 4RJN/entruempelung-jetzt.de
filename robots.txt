@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://entrümpelung-jetzt.de/sitemap.xml
